@@ -6,21 +6,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Hernández Hernández Edgar
+title: Computer Engineer Student
+email: edhdz.sp@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 3331507071
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Edhddz
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
