@@ -45,13 +45,12 @@ linkedin_username: edgar-hernández-700720237
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile_picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.  
+  I'm a <mark>computer engineer student</mark>, with knowledge in software development, CAD, 3D modeling, animation, UI & UX design, I'm a computer technician with it's <mark>own repair shop (link above)</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/Stock_image.jpg "Boot")
+  Currently learning about linux server deployment, Docker and videogame development and design.
+  
+  
+    - ![alt text](/images/Stock_image.jpg "Boot")
 
 content:
   - title: Projects # Title for the section
